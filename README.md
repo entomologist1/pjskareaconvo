@@ -6,3 +6,4 @@ how do i get rid of the license idgaf about licensing.THis is for toyhou.se. Bla
 ### credits:
 - sekai.best for assets
 - Elithian on toyhou.se for coding resources
+- pjsk is colopale's. duh
