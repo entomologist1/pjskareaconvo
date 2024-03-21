@@ -1,7 +1,11 @@
 # pjskareaconvo
 Dialogue HTML based on PJSK area conversations for toyhou.se
 
-how do i get rid of the license idgaf about licensing.THis is for toyhou.se. Blah
+### things to note:
+- bootstrap colors with some areas for custom colors
+- i tttttthink its mobile friendly? according to circlejourney
+- i've split up the code into two files for easier editing bc its. a lot all at once LMAO.
+- use ctrl-f and search !!EDIT!! for places to change
 
 ### credits:
 - sekai.best for assets
