@@ -1,7 +1,7 @@
 # pjskareaconvo
 Dialogue HTML based on PJSK area conversations for toyhou.se
 
-[toyhou.se here](https://toyhou.se/26394659.pjsk-area-conversation-f2u)
+[Toyhou.se listing here](https://toyhou.se/26394659.pjsk-area-conversation-f2u)
 
 ### things to note:
 - bootstrap colors with some areas for custom colors
