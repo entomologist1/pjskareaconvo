@@ -1,0 +1,94 @@
+<!-- DIALOGUE START -->
+<div class="card" style="min-height:100px; 
+				padding: 15px 25px 15px 35px;  
+				margin: 25px;">
+    
+	<!-- SPEECHBOX START -->
+	<div class="row no-gutters" style="margin: 10px 0px 10px 0px;">
+		<!-- icon -->
+		<!-- !!EDIT!! background-image url should be changed! -->
+		<div class="card col-md-2 col-4 p-1" style="border: none; 
+		        border-radius: 25px;
+				overflow: hidden; 
+				width: 100%; 
+				min-height: 75px; 
+				background-size: contain; 
+				background-repeat: no-repeat;
+				background-position: center;
+				background-image:url('https://f2.toyhou.se/file/f2-toyhou-se/users/admin?6?0');">
+		</div>
+		<!-- textbox -->
+		<div class="card col-md-10 col-8 p-1" style="border: none;">
+			<div class="bg-faded p-4 h-100" style="clip-path: polygon(0% 0%, 100% 0%, 100% 85%, 24% 85%, 0 100%, 10% 85%, 0% 85%);
+							margin-left: 20px; 
+							border-radius: 5px; 
+							min-height: 100px; 
+                            border-top: 10px solid #33AAEE  ;">
+				<!-- !!EDIT!! text here! -->
+				<p align="center"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+				<br>
+			</div>
+			<!-- !!EDIT!! replace #33AAEE with whatever color u want-->
+			<div class="bg-faded p-12 h-100" style="
+                    							margin: -25px 0px 0px 0px; 
+                    							margin-left: 70%;
+                    							background-color:  #33AAEE  ;
+                    							z-index: 10;
+                                                margin-left: auto;
+                                                width: 33%;
+                    							min-width: 25px;
+                    							max-width: 100px;
+							                    border-radius: 5px; 
+							                    max-height: 25px;">
+				<!-- !!EDIT!! edit name here! -->
+				<p align="center">PLACEHOLDER</p>
+			</div>
+		</div>
+	</div>
+	
+	<!-- SPEECHBOX START -->
+	<div class="row no-gutters" style="margin: 10px 0px 10px 0px;">
+		<!-- icon -->
+		<!-- !!EDIT!! background-image url should be changed! -->
+		<div class="card col-md-2 col-4 p-1" style="border: none; 
+				overflow: hidden; 
+				width: 100%; 
+				min-height: 75px; 
+				background-size: contain; 
+				background-repeat: no-repeat;
+				background-position: center;
+				background-image:url('https://f2.toyhou.se/file/f2-toyhou-se/users/admin?6?0');">
+		</div>
+		<!-- textbox -->
+		<!-- !!EDIT!! replace #33AAEE with whatever color u want-->
+		<div class="card col-md-10 col-8 p-1" style="border: none;">
+			<div class="bg-faded p-4 h-100" style="clip-path: polygon(0% 0%, 100% 0%, 100% 85%, 24% 85%, 0 100%, 10% 85%, 0% 85%);
+							margin-left: 20px; 
+							border-radius: 5px; 
+							min-height: 100px; 
+							overflow: scroll;
+                            border-top: 10px solid #33AAEE  ;">
+				<!-- !!EDIT!! text here! -->
+				<p align="center"> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+				<br>
+			</div>
+			<!-- !!EDIT!! replace #33AAEE with whatever color u want-->
+			<div class="bg-faded p-12 h-100" style="
+                    							margin: -25px 0px 0px 0px; 
+                    							margin-left: 70%;
+                    							background-color:  #33AAEE  ;
+                    							z-index: 10;
+                                                margin-left: auto;
+                                                width: 33%;
+                    							min-width: 25px;
+                    							max-width: 100px;
+							                    border-radius: 5px; 
+							                    max-height: 25px;">
+				<!-- !!EDIT!! edit name here! -->
+				<p align="center">PLACEHOLDER</p>
+			</div>
+		</div>
+	</div>
+	
+</div>
+<!-- DIALOGUE END -->
